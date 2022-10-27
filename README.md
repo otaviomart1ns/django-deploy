@@ -1,9 +1,10 @@
-# django-auth-react-tutorial
+# django-deploy
 
 ## Create a virtual environment
 
 ```shell
-virtualenv --python=/usr/bin/python3.8 venv
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 ## Install requirements
